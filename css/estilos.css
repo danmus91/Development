@@ -24,7 +24,9 @@ body
 body{
     background-color: aqua;
     font-size: larger;
-    color:chocolate
+    color:chocolate;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10cm;
 }
 
 table
